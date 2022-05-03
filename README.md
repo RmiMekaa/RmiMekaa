@@ -1,3 +1,5 @@
+Hi there 👋
+
 ## OpenClassroom - FrontEnd JS/React course
 
 Project 1 - Configurate your development environment  
