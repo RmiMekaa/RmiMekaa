@@ -1,6 +1,6 @@
-Hi there 👋
+## Hi there 👋
 
-## OpenClassroom - FrontEnd JS/React course
+### OpenClassroom - FrontEnd JS/React course
 
 Project 1 - Configurate your development environment  
 [Project 2](https://github.com/RmiMekaa/RemiRoeland_2_30-04-2021) - Turn a model into a website with HTML & CSS    
