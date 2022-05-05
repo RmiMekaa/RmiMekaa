@@ -11,7 +11,7 @@ Project 5 - HTML/CSS & JS online test ✔️
 [Project 7](https://github.com/RmiMekaa/RemiRoeland_7_17-08-2021) - Develop a search algorithm in JavaScript    
 Project 8 - JS algorithms online test ✔️   
 [Project 9](https://github.com/RmiMekaa/RemiRoeland_9_22-09-2021) - Debug and test a human ressource software  
-Project 10 - Analyzes the needs and design a school support applcation    
+[Project 10](https://github.com/RmiMekaa/RemiRoeland_10_18-09-2021) - Design a school support application    
 [Project 11](https://github.com/RmiMekaa/RemiRoeland_11_29-10-2021) - Create a web application with React and React Router  
 [Project 12](https://github.com/RmiMekaa/RemiRoeland_12_25-11-2021) - Develop a sport analytics dashboard with React  
 [Project 13](https://github.com/RmiMekaa/RemiRoeland_13_12-01-2021) - Use an API to handle user accounts  
