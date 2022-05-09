@@ -7,7 +7,7 @@ Project 1 - Configurate your development environment
 [Project 3](https://github.com/RmiMekaa/RemiRoeland_3_15-05-2021) - Bring life to a web page with CSS animations    
 [Project 4](https://github.com/RmiMekaa/RemiRoeland_4_26-05-2021) - Create a landing page with javascript    
 Project 5 - HTML/CSS & JS test ✔️  
-[Project 6](https://github.com/RmiMekaa/RemiRoeland_6_23-06-2021) - Create an accessible site for a platform of photographers    
+[Project 6](https://github.com/RmiMekaa/RemiRoeland_6_23-06-2021) - Create an accessible website for a photographers platform    
 [Project 7](https://github.com/RmiMekaa/RemiRoeland_7_17-08-2021) - Develop a search algorithm in JavaScript    
 Project 8 - JS algorithms test ✔️   
 [Project 9](https://github.com/RmiMekaa/RemiRoeland_9_22-09-2021) - Debug and test a human ressource software  
