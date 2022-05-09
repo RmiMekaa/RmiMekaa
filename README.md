@@ -18,3 +18,14 @@ Project 8 - JS algorithms test ✔️
 [Project 14](https://github.com/RmiMekaa/RemiRoeland_14_22-02-2022) - Convert an App using JQuery into React  
 
 Interactive React Table : [GitHub](https://github.com/RmiMekaa/React-Table) | [NPM](https://www.npmjs.com/package/interactive-react-table) - A React component to easily create an interactive table.
+
+------
+
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="32px" />
+</p>
